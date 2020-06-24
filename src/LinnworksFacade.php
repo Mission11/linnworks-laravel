@@ -1,6 +1,6 @@
 <?php
 
-namespace Booni3\Linnworks\Laravel;
+namespace Mission11\Linnworks\Laravel;
 
 use Illuminate\Support\Facades\Facade;
 

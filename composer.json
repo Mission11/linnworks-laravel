@@ -1,29 +1,29 @@
 {
-    "name": "booni3/linnworks-laravel",
+    "name": "mission11/linnworks-laravel",
     "description": "Linnworks API service provider and facade for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "Booni3",
+            "name": "Mission11",
             "email": "adam@profilestudio.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "Booni3/Linnworks": "^0.1"
+        "Mission11/Linnworks": "^0.1"
     },
     "autoload": {
         "psr-4": {
-            "Booni3\\Linnworks\\Laravel\\": "src"
+            "Mission11\\Linnworks\\Laravel\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Booni3\\Linnworks\\Laravel\\LinnworksServiceProvider"
+                "Mission11\\Linnworks\\Laravel\\LinnworksServiceProvider"
             ],
             "aliases": {
-                "Linnworks": "Booni3\\Linnworks\\Laravel\\LinnworksFacade"
+                "Linnworks": "Mission11\\Linnworks\\Laravel\\LinnworksFacade"
             }
         }
     }

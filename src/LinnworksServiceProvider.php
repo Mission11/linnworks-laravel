@@ -1,8 +1,8 @@
 <?php
 
-namespace Booni3\Linnworks\Laravel;
+namespace Mission11\Linnworks\Laravel;
 
-use Booni3\Linnworks\Linnworks;
+use Mission11\Linnworks\Linnworks;
 use Illuminate\Support\ServiceProvider;
 
 class LinnworksServiceProvider extends ServiceProvider
