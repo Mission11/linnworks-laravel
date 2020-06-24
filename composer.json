@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "Mission11/Linnworks": "^1.0.1"
+        "Mission11/Linnworks": "^1.0.2"
     },
     "autoload": {
         "psr-4": {
