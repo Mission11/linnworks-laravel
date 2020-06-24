@@ -5,12 +5,12 @@
     "authors": [
         {
             "name": "Mission11",
-            "email": "adam@profilestudio.com"
+            "email": "barry@missioneleven.co.uk"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "Mission11/Linnworks": "^0.1"
+        "Mission11/Linnworks": "^1.0.1"
     },
     "autoload": {
         "psr-4": {
